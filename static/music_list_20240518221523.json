@@ -1,0 +1,50 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "b4b3892ba20f463581e17427c8f07709",
+                "name": "Kiroren Guzili1",
+                "artist": "",
+                "album": "",
+                "url": "static/Kiroren Guzili/Kiroren Guzili1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "b4b3892ba20f463581e17427c8f07709",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "21e860308f906e18e433bdf4ff7c498c",
+                "name": "Kiroren Guzili2",
+                "artist": "",
+                "album": "",
+                "url": "static/Kiroren Guzili/Kiroren Guzili2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "21e860308f906e18e433bdf4ff7c498c",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "24dbb3354d873c4affb3fc2969b7de04",
+                "name": "Kiroren Guzili3",
+                "artist": "",
+                "album": "",
+                "url": "static/Kiroren Guzili/Kiroren Guzili3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "24dbb3354d873c4affb3fc2969b7de04",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
